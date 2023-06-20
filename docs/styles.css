@@ -89,5 +89,10 @@ h3{
     .cart{
         padding: 1rem 3.7rem;
         font-size: 0.6rem;
+     background-color: hsl(158, 36%, 37%);
+    }
+ .cart:hover{
+    background-color:  hsl(158, 81%, 11%);
+
     }
 }
